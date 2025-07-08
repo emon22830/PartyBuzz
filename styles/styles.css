@@ -94,3 +94,69 @@ color: rgb(255, 255, 255);
         letter-spacing: 0%;
         text-align: center;
 }
+
+
+
+/* Deal Section style */
+
+.section-deal{
+    width: 800px;
+    height: 806px;
+    margin: 80px 390px;
+    display: flex;
+    justify-content: center;
+    text-align: center
+}
+
+.deal-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 802px;
+    height: 650px;
+    margin-top: 50px;
+    
+}
+
+.deal-img{
+    width: 802px;
+    height: 500px;
+}
+
+.deal-img img{
+    width: 100%;
+}
+
+.deal-title{
+    color: rgb(255, 0, 0);
+        font-family: Inter;
+        font-size: 78px;
+        font-weight: 700;
+        line-height: 1.1;
+        letter-spacing: 0%;
+        text-align: center;
+        margin-bottom: 0px;
+        
+}
+
+.deal-subtitle{
+    color: rgb(255, 0, 0);
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 29px;
+        letter-spacing: 0%;
+        text-align: center;
+        margin-bottom: 0px;
+}
+
+.deal-category{
+    color: rgb(7, 2, 17);
+        font-family: Inter;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 58px;
+        letter-spacing: 0%;
+        text-align: center;
+}
